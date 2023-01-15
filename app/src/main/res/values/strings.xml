@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pasar Desa Tanjung</string>
+    <string name="splash_title">Selamat Datang\ndi\nPasar Desa Tanjung</string>
+
+    <string name="facebook_app_id">528322939257691</string>
+    <string name="fb_login_protocol_scheme">fb528322939257691</string>
+    <string name="facebook_client_token">8e96439e8652de45a10605b1c6b17f59</string>
+
+</resources>

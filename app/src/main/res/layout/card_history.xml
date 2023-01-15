@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="10dp"
+    android:layout_marginVertical="5dp"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="3dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:gravity="bottom"
+                android:text="No. Nota" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tanggal" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Username" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Status" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.5"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/noNota"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:gravity="bottom"
+                android:text=": " />
+
+            <TextView
+                android:id="@+id/tglJual"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=": " />
+
+            <TextView
+                android:id="@+id/namaUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=": " />
+
+            <TextView
+                android:id="@+id/statusByr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=": " />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.25"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+
+                android:text="" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Total" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ongkir" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Grand" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.75"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/statusImg"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end" />
+
+            <TextView
+                android:id="@+id/totalJual"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=": "/>
+
+            <TextView
+                android:id="@+id/ongkir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=": " />
+
+            <TextView
+                android:id="@+id/grandTotal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=": " />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

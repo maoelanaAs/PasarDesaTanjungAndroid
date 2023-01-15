@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_cek_ongkir.xml" value="0.209375" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_check_out.xml" value="0.25" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_detail.xml" value="0.20615384615384616" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_google_sign_in.xml" value="0.209375" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_history.xml" value="0.19230769230769232" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_main.xml" value="0.20615384615384616" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_search_city.xml" value="0.209375" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_sign_up.xml" value="0.1953125" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/activity_splash.xml" value="0.20615384615384616" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/card_history.xml" value="0.4053030303030303" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/card_item.xml" value="0.20615384615384616" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/content_main.xml" value="0.2265625" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/custom_search.xml" value="0.209375" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/list_item_city.xml" value="0.3140625" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/layout/list_item_main.xml" value="0.1" />
+        <entry key="..\:/dev/PPB/UAS/PasarDesaTanjungUAS/app/src/main/res/menu/menu_main.xml" value="0.20615384615384616" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

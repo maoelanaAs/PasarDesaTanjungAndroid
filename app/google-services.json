@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576895084475",
+    "project_id": "pasar-desa-tanjung-uas",
+    "storage_bucket": "pasar-desa-tanjung-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576895084475:android:e537c667d2b585a7ed469e",
+        "android_client_info": {
+          "package_name": "com.learning.pasardesatanjunguas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576895084475-p68b0cu6ebbpjocv4ckh7orl6ut2ii7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQw6cYcEfMq2IuZAKLgxwFWhtKedOFfeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576895084475-p68b0cu6ebbpjocv4ckh7orl6ut2ii7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
